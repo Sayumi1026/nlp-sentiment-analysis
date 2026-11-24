@@ -97,7 +97,7 @@ NLP-Sentiment-Analysis/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Sayumi1026/nlp-sentiment-analysis.git
 ```
 
 2. Navigate to the project folder:

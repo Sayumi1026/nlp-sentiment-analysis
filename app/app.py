@@ -5,6 +5,11 @@ import re
 from pathlib import Path
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import nltk
+
+# Download required NLTK resources
+nltk.download("stopwords", quiet=True)
+nltk.download("wordnet", quiet=True)
 
 # Page configuration
 st.set_page_config(
